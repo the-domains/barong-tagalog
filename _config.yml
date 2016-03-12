@@ -1,0 +1,28 @@
+name: Barong Tagalog
+favicon: null
+layout_spectrum: 0.47978495084680617
+typography_spectrum: 0.63461625110358
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.2050624331459403
+  lightness: 0.18296644231304526
+  saturation: 0.696857349248603
+  rhythmicContrast: 0.3214241652749479
+purpose: []
